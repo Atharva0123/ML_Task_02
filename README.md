@@ -4,7 +4,7 @@
 This project implements a K-Means clustering algorithm to group retail customers based on their purchase history, as outlined in Task-02. K-Means is an unsupervised machine learning algorithm designed to partition data into distinct clusters, where data points within each cluster exhibit higher similarity than those in different clusters.
 
 # Dataset
-The dataset used for this project can be accessed here.
+The dataset used for this project can be accessed here- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python.
 
 # Instructions for Dataset Usage
 1. Download the dataset from the provided link.
